@@ -1,40 +1,51 @@
 <div align="center">
 
-<!-- Sua Logo Oficial da KodeKam Sem Fundo -->
-<img src="COLE_AQUI_O_LINK_QUE_VOCE_COPIOU" width="220px" alt="KodeKam Logo Blue">
-
-<br><br>
-
-─── 💙 **Seja bem-vindo ao meu cantinho!** 🎮 ───
+# 💻 K O D E K A M 💻
+### ✨ *Desenvolvedora Web Front-End em Evolução* ✨
 
 <br>
 
-Olá! Meu nome é **KodeKam** e estou empenhada em entrar na área de Desenvolvimento Web Front-End! 
-
-Adoro mundos virtuais fofos e aconchegantes. Uso a minha **pedra de coração** 👁️‍🗨️ como amuleto mágico para enxergar além das linhas de código e encontrar as melhores soluções visuais em cada projeto! 🧶✨
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Git](https://shields.io)
 
 <br>
 
-─── 🕹️ **CHOOSE YOUR CHARACTER** 🕹️ ───
+─── 🪐 **Sobre Mim** ───
 
-| 👤 Player 1 | 🔮 Classe | 💙 Elemento | 🗺️ Servidor |
-| :---: | :---: | :---: | :---: |
-| **KodeKam** | Front-End Dev | Azul / Pixel | Brasil |
+</div>
 
-<br>
+> [!NOTE]
+> Olá! Meu nome é **KodeKam** e estou empenhada em ingressar no mercado de Desenvolvimento Web Front-End. 
+> Busco criar aplicações modernas, limpas, intuitivas e bem estruturadas. No meu tempo livre, aprecio o universo dos games e histórias envolventes — usando a sutil **pedra de coração** 👁️‍🗨️ como um amuleto decorativo para enxergar além das linhas de código e focar nos pequenos detalhes visuais de cada interface! 💙✨
 
-─── 📊 **Status de RPG (Atributos de Combate)** ───
-
-*   ⚔️ **Ataque (HTML5):** 🟦 🟦 🟦 🟦 ⬜ ⬜ ⬜ ⬜
-*   🛡️ **Defesa (CSS3):** 🟦 🟦 🟦 🟦 🟦 🟦 ⬜ ⬜
-*   🔮 **Magia (JavaScript):** 🟦 🟦 🟦 ⬜ ⬜ ⬜ ⬜ ⬜
-*   🎒 **Inventário:** `VS Code` • `GitHub` • `Café ☕` • `Controle Sem Fio 🎮`
+<div align="center">
 
 <br>
 
-─── 🧸 **Meus Interesses Principais** ───
+─── 📚 **Formação e Tecnologias** ───
 
-🎮 **Jogos Aconchegantes e Puzzles** • 💎 **Design de Interfaces Limpas e Fofas** • 🔵 **Estética Gamer Azul**
+<br>
+
+| Tecnologia | Foco do Aprendizado | Status |
+| :---: | :--- | :---: |
+| 🧱 **HTML5** | Estruturação semântica de páginas web complexas | 🟦 🟦 🟦 🟦 |
+| 🎨 **CSS3** | Estilização avançada, responsividade e layouts fluidos | 🟦 🟦 🟦 🟪 |
+| 🔮 **JavaScript** | Manipulação do DOM, funções lógicas e interatividade | 🟦 🟪 🟪 🟪 |
+| 💾 **Git & GitHub** | Controle de versão de projetos e documentação limpa | 🟦 🟦 🟪 🟪 |
+
+<br>
+
+─── 📊 **Habilidades & Atributos Técnicos** ───
+
+*   ⚔️ **Arquitetura Web (HTML5):** 🟦 🟦 🟦 🟦 ⬜ ⬜ ⬜ ⬜ *(Construindo bases sólidas)*
+*   🛡️ **Estilização Visual (CSS3):** 🟦 🟦 🟦 🟦 🟦 🟦 ⬜ ⬜ *(Design limpo e polido)*
+*   🔮 **Comportamento (JavaScript):** 🟪 🟪 🟪 ⬜ ⬜ ⬜ ⬜ ⬜ *(Implementando interações)*
+*   🎒 **Ferramentas de Trabalho:** `VS Code` • `GitHub Ecosystem` • `Git Bash`
+
+<br>
+
+─── 🧸 **Áreas de Interesse Geral** ───
+
+🔹 **User Interface (UI Design)** • 🔹 **Estética Minimalista Corporativa** • 🔹 **Puzzles e Lógica de Programação**
 
 <br>
 
@@ -42,12 +53,11 @@ Adoro mundos virtuais fofos e aconchegantes. Uso a minha **pedra de coração** 
 
 <br>
 
-[📧 EMAIL](kamillyvieiras971@gmail.com) | [🎮 DISCORD](@mixllyz_) |
-| :---: | :---: | :---: |
+[![Discord](https://shields.io)](@mixllyz_) [![Gmail](https://shields.io)](kamillyvieiras971@gmail.com)
 
 <br>
 
-─── 💬 **Pensamento do Dia** ───
+─── 💬 **Inspiração** ───
 
 </div>
 
@@ -58,9 +68,11 @@ Adoro mundos virtuais fofos e aconchegantes. Uso a minha **pedra de coração** 
 <div align="center">
 
 <br>
-Sempre buscando evoluir um pixel de cada vez. ✨ ─── 👾
+
+*Focada em evoluir e otimizar uma linha de código por vez.* ─── ★ 💻 ★ ───
 
 </div>
+
 
 
 
