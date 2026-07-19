@@ -1,52 +1,67 @@
-# 🪡 Bem-vindo ao meu Outro Mundo! 🗝️
-
 <div align="center">
 
-## 🎮 K O D E K A M 🎮
-*“Cuidado com o que você deseja...”*
+<!-- Banner do Topo: Pixel Art de Corações Azuis Estilo Game -->
+<img src="https://shutterstock.com" width="100%" height="70px" style="object-fit: cover; filter: hue-rotate(0deg);" alt="Banner Corações Azuis">
 
-✨ **Front-End Developer em Construção** ✨
+<br><br>
+
+─── 💙 **Seja bem-vindo ao meu cantinho!** 🎮 ───
 
 <br>
 
-![Progresso do Aprendizado](https://github.io)
+Olá! Meu nome é **KodeKam** e estou empenhada em entrar na área de Desenvolvimento Web Front-End! 
+
+Adoro mundos virtuais fofos e aconchegantes. Uso a minha **pedra de coração** 👁️‍🗨️ como amuleto mágico para enxergar além dos códigos e encontrar as melhores soluções em cada projeto!
+
+<br>
+
+🎮 **Habilidades Atuais & Vida (HP):**
+🔵 🔵 🔵 🧊 🧊 🧊 🧊 🧊 🧊 🧊
+*(Nível de Front-End em constante evolução...)*
+
+<br>
+  
+─── ⚙️ **Tecnologias que estou aprendendo** ───
+
+<br>
+
+• **HTML5** •
+
+• **CSS3** •
+
+• **JavaScript** •
+
+• **Git e GitHub** •
+
+<br>
+
+─── 🧸 **Meus Interesses Principais** ───
+
+<br>
+
+• **Desenvolvimento Front-end** •
+
+• **Design de Interfaces Fofas & Coloridas** •
+
+• **Jogos Aconchegantes e Puzzles** •
+
+• **Estética Gamer na cor Azul** •
+
+<br>
+
+─── 🪐 **Projetos & Redes** ───
+
+<br>
+
+Atualmente focada em praticar os exercícios do meu curso, transformando ideias lógicas em páginas interativas e cheias de estilo!
+
+Sempre evoluindo um pixel de cada vez. ✨ ─── 👾
+
+
+<!-- Banner do Rodapé combinando com o topo -->
+<img src="https://shutterstock.com" width="100%" height="40px" style="object-fit: cover;" alt="Banner Rodapé">
 
 </div>
 
-<br>
-
-> [!NOTE]
-> Olá! Sou a **KodeKam**. Assim como a Coraline, decidi abrir uma porta secreta para um universo cheio de códigos e desafios! Estou explorando o Front-end e transformando ideias em telas mágicas e aconchegantes. 🧵🌌
-
----
-
-### 🕹️ Meu Inventário de Missões
-
-* 💻 Mergulhada de cabeça em um curso de **Front-End**.
-* 🔑 Dominando as chaves do Outro Mundo: **HTML5**, **CSS3** e **JavaScript**.
-* 👾 Apaixonada por jogos indie, RPGs e mistérios.
-* 💙 Criando interfaces lindas com estética fofa e muitos tons de azul.
-
----
-
-### 🧵 Grimório de Habilidades
-
-* 🟦 **HTML5** ➔ 🧱 Estruturando meus próprios mundos virtuais.
-* 🟦 **CSS3** ➔ 🎨 Estilizando com tons de azul, estética fofa e magia.
-* 🟦 **JavaScript** ➔ ⚡ Dando vida, lógica e interatividade aos elementos.
-
----
-
-### 🐈‍⬛ Deixe um Recado!
-
-Se você tem a chave para a porta secreta ou quer apenas conversar sobre games e programação, me encontre por aqui:
-
-🪐 **LinkedIn:** [Acesse meu perfil profissional](SEU_LINK_DO_LINKEDIN_AQUI)
-
-<br>
-
-<p align="center">
-  <i>"Ela olhou para o céu. Era de um azul profundo, o azul de uma noite de verão."</i> 🌌
-</p>
 
 
