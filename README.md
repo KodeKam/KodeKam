@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner do Topo: Pixel Art de Corações Azuis Estilo Game -->
-<img src="https://shutterstock.com" width="100%" height="70px" style="object-fit: cover; filter: hue-rotate(0deg);" alt="Banner Corações Azuis">
+<!-- Sua Logo Oficial da KodeKam Sem Fundo -->
+<img src="COLE_AQUI_O_LINK_QUE_VOCE_COPIOU" width="220px" alt="KodeKam Logo Blue">
 
 <br><br>
 
@@ -11,55 +11,54 @@
 
 Olá! Meu nome é **KodeKam** e estou empenhada em entrar na área de Desenvolvimento Web Front-End! 
 
-Adoro mundos virtuais fofos e aconchegantes. Uso a minha **pedra de coração** 👁️‍🗨️ como amuleto mágico para enxergar além dos códigos e encontrar as melhores soluções em cada projeto!
+Adoro mundos virtuais fofos e aconchegantes. Uso a minha **pedra de coração** 👁️‍🗨️ como amuleto mágico para enxergar além das linhas de código e encontrar as melhores soluções visuais em cada projeto! 🧶✨
 
 <br>
 
-🎮 **Habilidades Atuais & Vida (HP):**
-🔵 🔵 🔵 🧊 🧊 🧊 🧊 🧊 🧊 🧊
-*(Nível de Front-End em constante evolução...)*
+─── 🕹️ **CHOOSE YOUR CHARACTER** 🕹️ ───
+
+| 👤 Player 1 | 🔮 Classe | 💙 Elemento | 🗺️ Servidor |
+| :---: | :---: | :---: | :---: |
+| **KodeKam** | Front-End Dev | Azul / Pixel | Brasil |
 
 <br>
-  
-─── ⚙️ **Tecnologias que estou aprendendo** ───
 
-<br>
+─── 📊 **Status de RPG (Atributos de Combate)** ───
 
-• **HTML5** •
-
-• **CSS3** •
-
-• **JavaScript** •
-
-• **Git e GitHub** •
+*   ⚔️ **Ataque (HTML5):** 🟦 🟦 🟦 🟦 ⬜ ⬜ ⬜ ⬜
+*   🛡️ **Defesa (CSS3):** 🟦 🟦 🟦 🟦 🟦 🟦 ⬜ ⬜
+*   🔮 **Magia (JavaScript):** 🟦 🟦 🟦 ⬜ ⬜ ⬜ ⬜ ⬜
+*   🎒 **Inventário:** `VS Code` • `GitHub` • `Café ☕` • `Controle Sem Fio 🎮`
 
 <br>
 
 ─── 🧸 **Meus Interesses Principais** ───
 
-<br>
-
-• **Desenvolvimento Front-end** •
-
-• **Design de Interfaces Fofas & Coloridas** •
-
-• **Jogos Aconchegantes e Puzzles** •
-
-• **Estética Gamer na cor Azul** •
+🎮 **Jogos Aconchegantes e Puzzles** • 💎 **Design de Interfaces Limpas e Fofas** • 🔵 **Estética Gamer Azul**
 
 <br>
 
-─── 🪐 **Projetos & Redes** ───
+─── 📬 **Vamos nos conectar?** ───
 
 <br>
 
-Atualmente focada em praticar os exercícios do meu curso, transformando ideias lógicas em páginas interativas e cheias de estilo!
+[📧 EMAIL](kamillyvieiras971@gmail.com) | [🎮 DISCORD](@mixllyz_) |
+| :---: | :---: | :---: |
 
-Sempre evoluindo um pixel de cada vez. ✨ ─── 👾
+<br>
 
+─── 💬 **Pensamento do Dia** ───
 
-<!-- Banner do Rodapé combinando com o topo -->
-<img src="https://shutterstock.com" width="100%" height="40px" style="object-fit: cover;" alt="Banner Rodapé">
+</div>
+
+```txt
+"Ela olhou para o céu. Era de um azul profundo, o azul de uma noite de verão." 🌌
+```
+
+<div align="center">
+
+<br>
+Sempre buscando evoluir um pixel de cada vez. ✨ ─── 👾
 
 </div>
 
