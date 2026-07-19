@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- BANNER GIGANTE ANIMADO EM PIXEL ART AZUL -->
-<img src="https://jsdelivr.net" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;" alt="Banner Animado">
+<!-- Banner do Topo: Gerado oficial pelo GitHub -->
+<img src="https://shields.io" width="100%" height="80px" alt="Banner KodeKam">
 
 <br><br>
 
@@ -15,8 +15,8 @@ Adoro mundos virtuais fofos, pixel art e jogos aconchegantes. Uso a minha **pedr
 
 <br>
 
-<!-- BARRA DE PROGRESSO REAL E ANIMADA EM DEGRADÊ AZUL -->
-<img src="https://github.io" width="350px" alt="Progresso Animado">
+<!-- Barra de Progresso Gamer Oficial -->
+<img src="https://shields.io" alt="Progresso">
 
 <br><br>
 
@@ -24,9 +24,13 @@ Adoro mundos virtuais fofos, pixel art e jogos aconchegantes. Uso a minha **pedr
 
 <br>
 
-| 🧱 HTML5 | 🎨 CSS3 | 🔮 JavaScript | 💾 Git & GitHub |
-| :---: | :---: | :---: | :---: |
-| <img src="https://githubusercontent.com" width="40" height="40" alt="html5"> | <img src="https://githubusercontent.com" width="40" height="40" alt="css3"> | <img src="https://githubusercontent.com" width="40" height="40" alt="javascript"> | <img src="https://githubusercontent.com" width="40" height="40" alt="git"> |
+• **HTML5** •
+
+• **CSS3** •
+
+• **JavaScript** •
+
+• **Git e GitHub** •
 
 <br>
 
@@ -54,8 +58,7 @@ Sempre buscando evoluir um pixel de cada vez. ─── 🛸
 
 <br>
 
-<!-- BOTÕES DE REDES SOCIAIS ESTILIZADOS -->
-<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:seu-email@email.com"><img src="https://shields.io" alt="Email"></a>
+💎 **LinkedIn:** [Acesse meu perfil profissional aqui](SEU_LINK_DO_LINKEDIN_AQUI)
 
 <br><br>
 
@@ -63,13 +66,13 @@ Sempre buscando evoluir um pixel de cada vez. ─── 🛸
 
 <br>
 
-<!-- BOTÃO "BY" QUADRADO E PROFISSIONAL EM AZUL -->
+<!-- O seu botão BY Quadrado Oficial em Azul -->
 <img src="https://shields.io" alt="By KodeKam">
 
 <br><br>
 
-<!-- LINHA DIVISÓRIA ANIMADA NO RODAPÉ -->
-<img src="https://jsdelivr.net" width="100%" height="30px" style="object-fit: cover; border-radius: 4px;" alt="Rodapé Animado">
+<!-- Banner do Rodapé combinando com o topo -->
+<img src="https://shields.io" width="100%" height="40px" alt="Rodapé">
 
 </div>
 
