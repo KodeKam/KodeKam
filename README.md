@@ -1,77 +1,72 @@
 <div align="center">
 
-# 💻 K O D E K A M 💻
-### ✨ *Desenvolvedora Web Front-End em Evolução* ✨
+<!-- Banner do Topo: Pixel Art de Céu Estrelado Azul com Movimento -->
+<img src="https://giphy.com" width="100%" height="220px" style="object-fit: cover;" alt="Banner Topo Animado">
+
+<br><br>
+
+─── 💙 **Seja bem-vindo(a)! 🪐. * •** ───
 
 <br>
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Git](https://shields.io)
+Olá! Meu nome é **KodeKam** e estou empenhada em entrar na área de Desenvolvimento Web Front-End! 
+
+Adoro mundos virtuais fofos, pixel art e jogos aconchegantes. Uso a minha **pedra de coração** 👁️‍🗨️ como um amuleto mágico decorativo para enxergar além das linhas de código e focar nos pequenos detalhes visuais de cada interface! 💻✨
 
 <br>
 
-─── 🪐 **Sobre Mim** ───
+─── ⚙️ **Tecnologias que estou aprendendo: 🎮. * •** ───
+
+<br>
+
+• **HTML5** •
+
+• **CSS3** •
+
+• **JavaScript** •
+
+• **Git e GitHub** •
+
+<br>
+
+─── 🧸 **Meus Interesses Principais: 🎨. * •** ───
+
+<br>
+
+• **Desenvolvimento Front-end** •
+
+• **Design de Interfaces Fofas & Aconchegantes** •
+
+• **Jogos de Puzzle e Lógica** •
+
+• **Estética Gamer na cor Azul** •
+
+<br>
+
+─── 🪐 **Projetos & Conexões: 📬. * •** ───
+
+<br>
+
+Atualmente focada nos estudos práticos do meu curso, transformando ideias lógicas em páginas interativas, limpas e cheias de estilo!
+
+Sempre buscando evoluir um pixel de cada vez. ─── 🛸
+
+<br>
+
+💎 **LinkedIn:** [Acesse meu perfil profissional aqui](SEU_LINK_DO_LINKEDIN_AQUI)
+
+<br><br>
+
+<!-- Botão de Assinatura "BY" Personalizado em Azul e Quadrado -->
+<a href="https://github.com"><img src="https://shields.io" alt="By KodeKam"></a>
+
+<br><br>
+
+<!-- Banner do Rodapé combinando com o topo -->
+<img src="https://giphy.com" width="100%" height="50px" style="object-fit: cover;" alt="Banner Rodapé">
 
 </div>
 
-> [!NOTE]
-> Olá! Meu nome é **KodeKam** e estou empenhada em ingressar no mercado de Desenvolvimento Web Front-End. 
-> Busco criar aplicações modernas, limpas, intuitivas e bem estruturadas. No meu tempo livre, aprecio o universo dos games e histórias envolventes — usando a sutil **pedra de coração** 👁️‍🗨️ como um amuleto decorativo para enxergar além das linhas de código e focar nos pequenos detalhes visuais de cada interface! 💙✨
-
-<div align="center">
-
-<br>
-
-─── 📚 **Formação e Tecnologias** ───
-
-<br>
-
-| Tecnologia | Foco do Aprendizado | Status |
-| :---: | :--- | :---: |
-| 🧱 **HTML5** | Estruturação semântica de páginas web complexas | 🟦 🟦 🟦 🟦 |
-| 🎨 **CSS3** | Estilização avançada, responsividade e layouts fluidos | 🟦 🟦 🟦 🟪 |
-| 🔮 **JavaScript** | Manipulação do DOM, funções lógicas e interatividade | 🟦 🟪 🟪 🟪 |
-| 💾 **Git & GitHub** | Controle de versão de projetos e documentação limpa | 🟦 🟦 🟪 🟪 |
-
-<br>
-
-─── 📊 **Habilidades & Atributos Técnicos** ───
-
-*   ⚔️ **Arquitetura Web (HTML5):** 🟦 🟦 🟦 🟦 ⬜ ⬜ ⬜ ⬜ *(Construindo bases sólidas)*
-*   🛡️ **Estilização Visual (CSS3):** 🟦 🟦 🟦 🟦 🟦 🟦 ⬜ ⬜ *(Design limpo e polido)*
-*   🔮 **Comportamento (JavaScript):** 🟪 🟪 🟪 ⬜ ⬜ ⬜ ⬜ ⬜ *(Implementando interações)*
-*   🎒 **Ferramentas de Trabalho:** `VS Code` • `GitHub Ecosystem` • `Git Bash`
-
-<br>
-
-─── 🧸 **Áreas de Interesse Geral** ───
-
-🔹 **User Interface (UI Design)** • 🔹 **Estética Minimalista Corporativa** • 🔹 **Puzzles e Lógica de Programação**
-
-<br>
-
-─── 📬 **Vamos nos conectar?** ───
-
-<br>
-
-[![Discord](https://shields.io)](@mixllyz_) [![Gmail](https://shields.io)](kamillyvieiras971@gmail.com)
-
-<br>
-
-─── 💬 **Inspiração** ───
-
-</div>
-
-```txt
-"Ela olhou para o céu. Era de um azul profundo, o azul de uma noite de verão." 🌌
-```
-
-<div align="center">
-
-<br>
-
-*Focada em evoluir e otimizar uma linha de código por vez.* ─── ★ 💻 ★ ───
-
-</div>
 
 
 
