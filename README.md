@@ -17,7 +17,7 @@
 
 ## 🫀 Sobre Mim
 
-Olá! Me chamo **Kamilly Vieira** (mas pode me chamar de **Kam**). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. Quando não estou codando, com certeza estou sobrevivendo a um apocalipse zumbi ou desvendando mistérios em alguma outra dimensão.
+Olá! Me chamo **Kamilly Vieira** (mas pode me chamar de **Milly**). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. Quando não estou codando, com certeza estou sobrevivendo a um apocalipse zumbi ou desvendando mistérios em alguma outra dimensão.
 
 *   **🎬 Filmes Favoritos:** *Coraline e o Mundo Secreto*, *Pânico (Scream)* e clássicos de terror.
 *   **🎮 Games de Cabeceira:** *Resident Evil* (fã de carteirinha) e *The Last of Us*.
@@ -45,8 +45,8 @@ Olá! Me chamo **Kamilly Vieira** (mas pode me chamar de **Kam**). Sou uma entus
 
 ## 🕹️ Atuais Projetos e Missões
 
-- 👥 Desenvolvendo o projeto **ViraDengo** junto com a minha equipe.
-- 🐈 Criando de forma independente o **Cantinho da Kam** (um espaço totalmente com a minha identidade).
+- 👥 Desenvolvendo o projeto **SOS PET** junto com a minha equipe.
+- 🐈 Criando de forma independente o **Cantinho da Milly** (um espaço totalmente com a minha identidade).
 - 💼 Em breve: Construção do meu portfólio oficial.
 
 ---
