@@ -2,7 +2,8 @@
 
 # ˚🦪 ✦ 🩸 Seja bem-vinda ao meu covil! 🩸 ✦ 🦪 ˚
    
-<img src="https://giphy.com" width="280" alt="Ghostface acenando fofamente">
+<img width="1200" height="400" alt="banner ghostface" src="https://github.com/user-attachments/assets/3814cacb-7b7c-44c1-99c1-846e690c0178"  width="280" alt="Ghostface acenando fofamente" />
+
 
 <h3> 🎮 Gamer por paixão & Dev Front-End em construção 🕸️ </h3>
 
