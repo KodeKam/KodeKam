@@ -1,78 +1,66 @@
 <div align="center">
 
-<!-- Banner do Topo: Gerado oficial pelo GitHub -->
-<img src="https://shields.io" width="100%" height="80px" alt="Banner KodeKam">
+# 🖤 Seja bem-vinda ao meu covil! 🩸
 
-<br><br>
+<img src="https://giphy.com" width="280" alt="Ghostface acenando fofamente">
 
-─── 💙 **Seja bem-vindo(a)! 🪐. * •** ───
+<h3> 🎮 Gamer por paixão & Dev Front-End em construção 🕸️ </h3>
 
-<br>
+<p>
+  <img src="https://shields.io" alt="Idade">
+  <img src="https://shields.io" alt="Foco">
+</p>
 
-Olá! Meu nome é **KodeKam** e estou empenhada em entrar na área de Desenvolvimento Web Front-End! 
+---
 
-Adoro mundos virtuais fofos, pixel art e jogos aconchegantes. Uso a minha **pedra de coração** 👁️‍🗨️ como um amuleto mágico decorativo para enxergar além das linhas de código e focar nos pequenos detalhes visuais de cada interface! 💻✨
+</div>
 
-<br>
+## 🫀 Sobre Mim
 
-<!-- Barra de Progresso Gamer Oficial -->
-<img src="https://shields.io" alt="Progresso">
+Olá! Me chamo **Kamilly Vieira** (mas pode me chamar de **Kam**). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. Quando não estou codando, com certeza estou sobrevivendo a um apocalipse zumbi ou desvendando mistérios em alguma outra dimensão.
 
-<br><br>
+*   **🎬 Filmes Favoritos:** *Coraline e o Mundo Secreto*, *Pânico (Scream)* e clássicos de terror.
+*   **🎮 Games de Cabeceira:** *Resident Evil* (fã de carteirinha) e *The Last of Us*.
+*   **🎯 Objetivo:** Evoluir um código de cada vez e criar experiências digitais incríveis.
 
-─── ⚙️ **Tecnologias que estou aprendendo: 🎮. * •** ───
+---
 
-<br>
+## 🛠️ Tecnologias & Ferramentas em Aprendizado
 
-• **HTML5** •
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
-• **CSS3** •
+---
 
-• **JavaScript** •
+## 👁️ Meus Interesses
 
-• **Git e GitHub** •
+- 💻 **Front-end Development** (Aprofundando conhecimentos diariamente)
+- 🎨 **Design de UI/UX** & Prototipagem no Figma
+- 🍿 Maratonar filmes de terror e analisar teorias de jogos
 
-<br>
+---
 
-─── 🧸 **Meus Interesses Principais: 🎨. * •** ───
+## 🕹️ Atuais Projetos e Missões
 
-<br>
+- 👥 Desenvolvendo o projeto **ViraDengo** junto com a minha equipe.
+- 🐈 Criando de forma independente o **Cantinho da Kam** (um espaço totalmente com a minha identidade).
+- 💼 Em breve: Construção do meu portfólio oficial.
 
-• **Desenvolvimento Front-end** •
+---
 
-• **Design de Interfaces Fofas & Aconchegantes** •
+<div align="center">
 
-• **Jogos de Puzzle e Lógica** •
+### 🕸️ "Não olhe para trás..." 🩸
 
-• **Estética Gamer na cor Azul** •
-
-<br>
-
-─── 🪐 **Projetos & Conexões: 📬. * •** ───
-
-<br>
-
-Atualmente focada nos estudos práticos do meu curso, transformando ideias lógicas em páginas interativas, limpas e cheias de estilo!
-
-Sempre buscando evoluir um pixel de cada vez. ─── 🛸
-
-<br>
-
-💎 **LinkedIn:** [Acesse meu perfil profissional aqui](SEU_LINK_DO_LINKEDIN_AQUI)
-
-<br><br>
-
-─── ★ **ASSINATURA** ★ ───
+<img src="https://giphy.com" width="250" alt="Coraline e o Gato">
 
 <br>
 
-<!-- O seu botão BY Quadrado Oficial em Azul -->
-<img src="https://shields.io" alt="By KodeKam">
 
-<br><br>
-
-<!-- Banner do Rodapé combinando com o topo -->
-<img src="https://shields.io" width="100%" height="40px" alt="Rodapé">
+📌 Criado com 🖤 por **KodeKam**
 
 </div>
 
