@@ -12,6 +12,7 @@
   <img src="https://shields.io" alt="Foco">
 </p>
 
+
 ⚡︎ ══════════════ 👻 ══════════════ ⚡︎
 
 </div>
@@ -38,9 +39,13 @@ Olá! Me chamo **Kamilly Vieira** (mas todos me chamam por **Milly**). Sou uma e
 
 ## 👁️ ✦ ˚ Meus Interesses 🔮 ⭐️
 
+<details>
+<summary><b>👁️ Clique aqui para ver meus Interesses Secretos...</b></summary>
+
 - 💻 **Front-end Development** ✦ (Aprofundando conhecimentos diariamente)
 - 🎨 **Design de UI/UX** ✦ Prototipagem detalhada no Figma
 - 🍿 **Maratonar Terror** ✦ Analisar teorias de jogos e roteiros de filmes
+</details>
 
 🪐 ════════════════════════════════════ 🪐
 
@@ -57,6 +62,20 @@ Olá! Me chamo **Kamilly Vieira** (mas todos me chamam por **Milly**). Sou uma e
 ### 🕸️ ˚✦ "Não olhe para trás..." 🩸 ˚✦
 
 <img src="https://giphy.com" width="250" alt="Coraline e o Gato">
+
+## 📬 ✦ ˚ Vamos nos conectar ˚ ✦ 🩸
+
+<p align="center">
+  <a href="https://wa.me/5511980219657" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp">
+  </a>
+  <a href="kamillyvieiras971@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail">
+  </a>
+  <a href="mixllyz_" target="_blank">
+    <img src="https://shields.io" alt="Discord">
+  </a>
+</p>
 
 <br>
 
