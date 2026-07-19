@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- Banner do Topo: Pixel Art de Céu Estrelado Azul com Movimento -->
-<img src="https://giphy.com" width="100%" height="220px" style="object-fit: cover;" alt="Banner Topo Animado">
+<!-- Banner Estilizado Usando Emojis de Espaço e Estrelas Azues -->
+🪐 ✨ 🌌 ─── ★ **K O D E K A M _ S P A C E** ★ ─── 🌌 ✨ 🪐
+🔹 🟦 🟦 🟦 🟪 🟪 🟪 🟪 🟪 🟪 🔹
 
-<br><br>
+<br>
 
 ─── 💙 **Seja bem-vindo(a)! 🪐. * •** ───
 
@@ -57,15 +58,16 @@ Sempre buscando evoluir um pixel de cada vez. ─── 🛸
 
 <br><br>
 
-<!-- Botão de Assinatura "BY" Personalizado em Azul e Quadrado -->
-<a href="https://github.com"><img src="https://shields.io" alt="By KodeKam"></a>
+─── ★ **BY KODEKAM** ★ ───
+*( 👁️‍🗨️ Crafted with Magic )*
 
 <br><br>
 
-<!-- Banner do Rodapé combinando com o topo -->
-<img src="https://giphy.com" width="100%" height="50px" style="object-fit: cover;" alt="Banner Rodapé">
+🔹 🟪 🟪 🟪 🟪 🟪 🟪 🟦 🟦 🟦 🔹
+🌌 ✨ 🪐 ────────────────────────── 🪐 ✨ 🌌
 
 </div>
+
 
 
 
