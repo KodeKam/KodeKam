@@ -31,7 +31,7 @@ Olá! Me chamo **Kamilly Vieira** (mas todos me chamam por **Milly**). Sou uma e
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma," />
   </a>
 </p>
 
