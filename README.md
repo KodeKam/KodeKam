@@ -26,13 +26,8 @@
 
 ###
 
-<div data-importer="socials" align="left">
-</div>
-
-###
-
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=51&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -81,13 +76,13 @@
 
 ###
 
-<p data-importer="text" align="center">💻 Desenvolvimento Front-end ✦ (Aprofundando conhecimentos diariamente)<br><br>🎨 Design de UI/UX ✦ Prototipagem específica no Figma<br><br>🎬 Animações e Interatividade Avançada: Criação de interfaces ricas, efeitos visuais e transições fluidas usando JS puro (Vanilla).</p>
+<p data-importer="text" align="center">💻 Desenvolvimento Front-end ✦ (Aprofundando conhecimentos diariamente)<br><br>🎨 Design de UI/UX ✦ Prototipagem específica no Figma<br><br>🎬 Animações e Interatividade Avançada: Criação de interfaces ricas, efeitos visuais e transições fluidas usando JS puro (Vanilla).<br><br>👾   ═════════════════════════════════════ 👾</p>
 
 ###
 
-<br clear="both">
-
-<h4 data-importer="text" align="center">👾   ═════════════════════════════════════ 👾</h4>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=36&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
