@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="207" src="https://i.pinimg.com/1200x/76/83/fc/7683fcafb7ba5b78f3bdd8107996ee78.jpg"  />
+  <img data-importer="image" height="400" src="https://i.pinimg.com/1200x/76/83/fc/7683fcafb7ba5b78f3bdd8107996ee78.jpg"  />
 </div>
 
 ###
