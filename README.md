@@ -7,20 +7,25 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="400" src="https://i.pinimg.com/1200x/76/83/fc/7683fcafb7ba5b78f3bdd8107996ee78.jpg"  />
+  <img data-importer="image" height="180" src="https://i.pinimg.com/1200x/76/83/fc/7683fcafb7ba5b78f3bdd8107996ee78.jpg"  />
 </div>
 
 ###
 
-<h4 data-importer="text" align="center">🎮 Gamer por paixão & Dev Front-End em construção 🕸️<br><br><br>⚡︎ ══════════════ 👻 ══════════════ ⚡︎</h4>
+<h2 data-importer="text" align="center">🎮 Gamer por paixão & Dev Front-End em construção 🕸️<br><br>⚡︎ ══════════════ 👻 ══════════════ ⚡︎</h2>
 
 ###
 
-<h1 data-importer="text" align="center">🫀 ✦ ˚ Sobre Mim 🐾 🕸️</h1>
+<div data-importer="socials" align="left">
+</div>
 
 ###
 
-<p data-importer="text" align="center">Olá! Me chamo Kamilly Vieira (mas todos me chamam por Milly ). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. Quando não estou codificando, com certeza estou sobrevivendo a um apocalipse zumbi ou desvendando mistérios em alguma outra dimensão. 🕸️˚✦<br><br>🎬 Filmes Favoritos 🩸 ::  Coraline e o Mundo Secreto , e clássicos de terror.<br><br>🎮 Games de Cabeceira 🎮 ::   Resident Evil (fã de carteirinha) e The Last of Us .<br><br>🎯 Nosso Objetivo ✦ ::  Evoluir um código de cada vez e criar experiências digitais incríveis.</p>
+<h1 data-importer="text" align="center">✦ ˚ Sobre Mim 💖 ̊</h1>
+
+###
+
+<p data-importer="text" align="center">Olá! Me chamo Kamilly Vieira (mas todos me chamam por Milly ). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. 🕸️˚✦<br><br>🎬 Filmes Favoritos 🩸 ::  Coraline e o Mundo Secreto , e clássicos de terror.<br><br>🎮 Games de Cabeceira 🎮 ::   Resident Evil (fã de carteirinha) e The Last of Us .<br><br>🎯 Meu Objetivo ✦ ::  Evoluir um código de cada vez e criar experiências digitais incríveis.</p>
 
 ###
 
@@ -28,7 +33,12 @@
 
 ###
 
-<h1 data-importer="text" align="center">🛠️ ✦ ˚ Tecnologias & Ferramentas ˚ ✦ 🦇</h1>
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<h1 data-importer="text" align="center">✦ ˚ Tecnologias & Ferramentas ˚ ✦</h1>
 
 ###
 
@@ -44,7 +54,14 @@
 
 ###
 
-<h1 data-importer="text" align="center">👁️ ✦ ˚ Meus Interesses 🔮 ⭐️</h1>
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<h1 data-importer="text" align="center">✦ ˚ Meus Interesses  ⭐️</h1>
 
 ###
 
@@ -52,11 +69,18 @@
 
 ###
 
+<br clear="both">
+
 <h4 data-importer="text" align="center">🪐 ═════════════════════════════════════ 🪐</h4>
 
 ###
 
-<h1 data-importer="text" align="center">🕹️ ✦ ˚ Atuais Projetos e Missões ☠️ ˚</h1>
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<h1 data-importer="text" align="center">✦ ˚ Atuais Projetos e Missões  ˚</h1>
 
 ###
 
@@ -70,7 +94,12 @@
 
 ###
 
-<h1 data-importer="text" align="center">📬 ✦ ˚ Vamos nos conectar ˚ ✦ 🩸</h1>
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<h1 data-importer="text" align="center">✦ ˚ Vamos nos conectar ˚ ✦ 🩸</h1>
 
 ###
 
@@ -85,7 +114,7 @@
 
 ###
 
-<p data-importer="text" align="center">˚✦ 🫀 Criado com amor por KodeKam ⭐️ 🕸️</p>
+<p data-importer="text" align="center">˚✦  Criado com amor por KodeKam ⭐️ 🕸️</p>
 
 ###
 
@@ -93,6 +122,7 @@
 </div>
 
 ###
+
 
 
 
