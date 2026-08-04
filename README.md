@@ -1,8 +1,9 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="189" src="https://i.pinimg.com/1200x/c2/07/11/c20711cb984607210889eecf38b23399.jpg"  />
-</div>
+  <p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
 
 ###
 
@@ -18,7 +19,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">🎮 Gamer por paixão & Dev Front-End em construção 🕸️</h3>
+<h3 data-importer="text" align="center"> Gamer por paixão & Dev Front-End em construção </h3>
 
 ###
 
@@ -32,7 +33,7 @@
 
 ###
 
-<p data-importer="text" align="center">Olá! Me chamo Kamilly Vieira (mas todos me chamam por Milly ). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. 🕸️˚✦<br><br><br>🟣 Nosso Objetivo ✦ ::  Evoluir um código de cada vez e criar experiências digitais incríveis.</p>
+<p data-importer="text" align="center">Olá! Me chamo Kamilly Vieira (mas todos me chamam por Milly ). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. 🕸️˚✦<br><br><br> 🟣 Nosso Objetivo ✦ ::  Evoluir um código de cada vez e criar experiências digitais incríveis.</p>
 
 ###
 
