@@ -115,11 +115,14 @@
 
 <br clear="both">
 
-<div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<div data-importer="socials" align="center"><a href="https://www.linkedin.com/in/kamilly-vieira-878b192b6/"><img src="https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/mix_llyz/"><img src="https://img.shields.io/badge/Instagram-8E24AA?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="[fale comigo!](mailto:kamillyvieiras971@gmail.com)
+"><img src="https://img.shields.io/badge/E--mail-424242?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
 </div>
 
 ###
