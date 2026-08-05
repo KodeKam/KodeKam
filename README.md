@@ -2,7 +2,7 @@
 
 <div data-importer="image" align="center">
   <p align="center">
-  <img src="banner.png" width="100%" height="350" alt="Banner">
+  <img src="banner2.png" width="1000%" height="380" alt="Banner">
 </p>
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=23&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
