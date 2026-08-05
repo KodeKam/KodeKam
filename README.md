@@ -117,8 +117,7 @@
 
 <div data-importer="socials" align="center"><a href="https://www.linkedin.com/in/kamilly-vieira-878b192b6/"><img src="https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://www.instagram.com/mix_llyz/"><img src="https://img.shields.io/badge/Instagram-8E24AA?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="[fale comigo!](mailto:kamillyvieiras971@gmail.com)
-"><img src="https://img.shields.io/badge/E--mail-424242?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="<a href="mailto:kamillyvieiras971@gmail.com"><img src="https://img.shields.io/badge/E--mail-424242?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
