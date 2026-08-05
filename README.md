@@ -4,84 +4,71 @@
   <p align="center">
   <img src="banner.png" width="100%" alt="Banner">
 </p>
-
-###
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=23&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h1 data-importer="text" align="center">˚ ✦  Seja bem-vindo! ✦ ˚</h1>
+<h1 data-importer="text" align="center">˚ 🩸 ✦  Seja bem-vindo! ✦🩸 ˚</h1>
 
 ###
 
-<h3 data-importer="text" align="center"> Gamer por paixão & Dev Front-End em construção </h3>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=51&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="center">⊹₊˚‧︵‿₊  Sobre Mim  ₊‿︵‧˚₊⊹</h1>
-
-###
-
-<p data-importer="text" align="center">Olá! Me chamo Kamilly Vieira (mas todos me chamam por Milly ). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. 🕸️˚✦<br><br><br> 🟣 Nosso Objetivo ✦ ::  Evoluir um código de cada vez e criar experiências digitais incríveis.</p>
-
-###
-
-<h4 data-importer="text" align="center">👾   ═════════════════════════════════════ 👾</h4>
+<h3 data-importer="text" align="center">- Gamer por paixão & Dev Front-End em construção</h3>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=13&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">Tecnologias & Ferramentas</h1>
+<h1 data-importer="text" align="left">⊹₊˚‧ Sobre Mim ‧˚₊⊹</h1>
 
 ###
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="57" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="57" alt="css logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="57" alt="figma logo"  />
+<h4 data-importer="text" align="left">Olá! Me chamo Kamilly Vieira (mas todos me chamam por Milly ). Sou uma entusiasta do desenvolvimento web apaixonada por criar interfaces bonitas, intuitivas e que contem uma história. 🕸️˚✦<br><br><br>🔴 Nosso Objetivo ✦ ::  Evoluir um código de cada vez e criar experiências digitais incríveis.</h4>
+
+###
+
+<h3 data-importer="text" align="center">────────────────────────────────────</h3>
+
+###
+
+<h1 data-importer="text" align="left">Tecnologias & Ferramentas</h1>
+
+
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
 </div>
-
-###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=25&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=9&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+
+<h3 data-importer="text" align="center">────────────────────────────────────</h3>
+
 
 <br clear="both">
 
-<h1 data-importer="text" align="center">Meus Interesses</h1>
+<h1 data-importer="text" align="left">Meus Interesses</h1>
 
-###
 
-<p data-importer="text" align="center">💻 Desenvolvimento Front-end ✦ (Aprofundando conhecimentos diariamente)<br><br>🎨 Design de UI/UX ✦ Prototipagem específica no Figma<br><br>🎬 Animações e Interatividade Avançada: Criação de interfaces ricas, efeitos visuais e transições fluidas usando JS puro (Vanilla).<br><br>👾   ═════════════════════════════════════ 👾</p>
+<h4 data-importer="text" align="left">💻 Desenvolvimento Front-end ✦ (Aprofundando conhecimentos diariamente)<br><br>🎨 Design de UI/UX ✦ Prototipagem específica no Figma<br><br>🎬 Animações e Interatividade Avançada: Criação de interfaces ricas, efeitos visuais e transições fluidas usando JS puro (Vanilla).</h4>
 
-###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=36&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h3 data-importer="text" align="center">────────────────────────────────────</h3>
 
 ###
 
@@ -90,17 +77,11 @@
 
 ###
 
-<h1 data-importer="text" align="center">Atuais Projetos e Missões</h1>
+<h1 data-importer="text" align="left">Atuais Projetos e Missões</h1>
 
 ###
 
-<p data-importer="text" align="center">👥 Desenvolvendo o projeto SOS PET junto com minha equipe.<br><br>🐈 Criando de forma independente o Cantinho da Milly (um espaço totalmente com a minha identidade).<br><br>💼 Em breve: Construção do meu portfólio oficial.</p>
-
-###
-
-<br clear="both">
-
-<h4 data-importer="text" align="center">🕸️ ˚✦ "Não olhe para trás..." 🩸 ˚✦</h4>
+<p data-importer="text" align="left">👥 Desenvolvendo o projeto SOS PET junto com minha equipe.<br><br>🧟 Criando de forma independente o Cantinho da Milly (um espaço totalmente com a minha identidade).<br><br>💼 Em breve: Construção do meu portfólio oficial.</p>
 
 ###
 
@@ -109,7 +90,18 @@
 
 ###
 
-<h1 data-importer="text" align="center">⊹₊˚‧︵‿₊ Vamos nos conectar ₊‿︵‧˚₊⊹</h1>
+<br clear="both">
+
+<h4 data-importer="text" align="center"> 🔥 ˚✦ "Look for the Light..." 🩸 ˚✦</h4>
+
+###
+
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<h1 data-importer="text" align="center">︵‿₊ Vamos nos conectar ₊‿︵‧</h1>
 
 ###
 
@@ -126,7 +118,7 @@
 
 ###
 
-<p data-importer="text" align="center">˚✦  Criado com amor por KodeKam  👾🕸️</p>
+<p data-importer="text" align="center">˚✦  Criado com amor por KodeKam  🧟🕸️</p>
 
 ###
 
